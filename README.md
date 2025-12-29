@@ -1,2 +1,3 @@
 # movie-review-sentiment
-Uses known models to do a sentiment analysis of movies.
+Create a model that does a sentiment analysis of movies.
+- Look into transfer learning and hugging face transformers to create project.
