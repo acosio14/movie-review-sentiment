@@ -1,0 +1,15 @@
+# Datasets
+*.csv
+*.tsv
+data/
+
+# Model checkpoints
+checkpoint-*/
+*.pt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+.env
