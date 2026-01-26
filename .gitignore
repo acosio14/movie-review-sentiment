@@ -15,4 +15,4 @@ __pycache__/
 .env
 
 # VS Code
-.vscode/launch.json
+.vscode/
