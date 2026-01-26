@@ -13,3 +13,6 @@ checkpoint-*/
 __pycache__/
 *.pyc
 .env
+
+# VS Code
+.vscode
