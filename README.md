@@ -1,4 +1,4 @@
-# Movie Sentiment Analysis
+# Movie Review Sentiment Analysis
 
 This repository showcases one of my first projects focused on learning transfer learning in natural language processing. The goal of this mini-project was to fine-tune a transformer model capable of performing sentiment analysis on movie reviews. I used DistilBERT, a lightweight distilled version of BERT from Hugging Face, and fine-tuned it using the IMDb Movie Review dataset (50,000 labeled reviews) accessed through [Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download). Rather than building a model from scratch, this project focused on understanding how pre-trained transformer models can be fine-tune to different tasks other than what the model was trained for.
 
